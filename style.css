@@ -80,5 +80,9 @@ body
 {
     text-decoration: none;
     color:rgb(197, 0, 0);
-
 }
+
+.form span a:hover{
+    color: blue;
+}
+
