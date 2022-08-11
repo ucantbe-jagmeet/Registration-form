@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 *{
-    /* margin: 0; */
-    /* padding: 0; */
     box-sizing: border-box;    
 }
 body
@@ -14,12 +12,11 @@ body
 
 .form
 {
-    border: 2px solid black;
     width: 400px;
     height: 600px;
     margin: 40px auto;
     border-radius: 20px;
-    box-shadow: 10px 10px 15px #f0c9bc,-10px -20px 15px #e9c3b6;
+    box-shadow: 10px 10px 15px #f0c9bc,-5px -5px 15px #e9c3b6;
     
 }
 
