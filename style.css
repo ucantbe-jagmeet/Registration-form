@@ -31,6 +31,7 @@ body
 .header
 {
     text-transform: uppercase;
+    color: #606362;
 }
 
 .form input{
